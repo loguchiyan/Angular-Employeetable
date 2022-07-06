@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "firstname": "logu",
+      "lastname": "periyasamy",
+      "birthdate": "2000-06-22",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "tns",
+      "jobExperience": 1,
+      "salary": 3,
+      "id": 1
+    },
+    {
+      "firstname": "gokul",
+      "lastname": "suresh",
+      "birthdate": "1999-2-22",
+      "gender": "m",
+      "education": "Deplamo",
+      "company": "cts",
+      "jobExperience": 1,
+      "salary": 3,
+      "id": 1
+    }
+
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
